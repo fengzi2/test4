@@ -9,7 +9,7 @@ public class main {
 
     public static void test(String... arguments) {  
         for (int i = 0; i < arguments.length; i++) {  
-            System.out.println(arguments[ i ]);  
+            System.out.println(arguments[i]);  
         }  
     }  
 
